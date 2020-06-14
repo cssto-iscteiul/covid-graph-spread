@@ -3,7 +3,7 @@
 82714 Catarina Teodoro
 
 covid-graph-spread is a small java application that extracts covid19spreading.rdf 
-files associated to tags in available in  
+files associated to tags available in  
 
 covid-graph-spread is a small java application that extracts covid19spreading.rdf files associated to tags available in http://github.com/vbasto-iscte/ESII1920 repository and presents information about them in a HTML table to be shown in a WP-CMS web site.
 
